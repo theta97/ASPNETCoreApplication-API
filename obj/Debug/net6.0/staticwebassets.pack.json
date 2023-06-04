@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\Divergent.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\Divergent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\Harry Potter - The Complete Series.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\Harry Potter - The Complete Series.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\In The Tall Grass.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\In The Tall Grass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\Neptune's Brood.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\Neptune's Brood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\Ready Player One.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\Ready Player One.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\game-of-thrones.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\game-of-thrones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\gonegirl.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\gonegirl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\hungergames.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\hungergames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\in-the-heart-of-the-sea.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\in-the-heart-of-the-sea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\the-woman-in-the-window-pdf-1.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\the-woman-in-the-window-pdf-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\books\\pics\\thehobbit.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\pics\\thehobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mariyam.haifa\\source\\repos\\ASPNETCoreApplication\\wwwroot\\images\\imgtst\\image.jpg",
+      "PackagePath": "staticwebassets\\images\\imgtst\\image.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPNETCoreApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASPNETCoreApplication.props",
+      "PackagePath": "build\\ASPNETCoreApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPNETCoreApplication.props",
+      "PackagePath": "buildMultiTargeting\\ASPNETCoreApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASPNETCoreApplication.props",
+      "PackagePath": "buildTransitive\\ASPNETCoreApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
